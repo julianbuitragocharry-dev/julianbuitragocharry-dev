@@ -3,10 +3,10 @@
 </h1>
 
 ## About Me 👀
-I am a passionate self-taught developer and enthusiast of new technologies. Currently, I am studying Software Engineering at Universidad Surcolombiana in Colombia. I am always eager to take on new challenges and continuously grow in my career. I enjoy collaborating within the community and am known for my strong soft skills, which I consider essential for effective teamwork and the success of any project.
+I'm a passionate self-taught developer and enthusiast about new technologies. Currently, I am studying Software Engineering at Universidad Surcolombiana. I'm always eager to take on new challenges and continuously grow in my career. I enjoy collaborating within the community and I'm known for my strong soft skills, which I consider essential for effective teamwork and the success of any project.
 
 ## Tech Stack 👾
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ## GitHub Stats 📊
 <p align="center">
